@@ -1,0 +1,28 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date ""]
+[Site ""]
+[RedTeam ""]
+[Red "象棋巫师测试团队"]
+[BlackTeam ""]
+[Black "ElephantEye"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "3k1ab2/4aR3/1R2c4/4N4/9/4r4/9/9/3rAp3/2B1KAB2 w - - 0 1"]
+  1. 车四进一
+{！}
+  1.          士５退６
+  2. 车八进二
+{次序正确！如改走马五进七则将4进1，红无杀着。}
+  2.          将４进１
+  3. 车八退一 将４退１
+  4. 马五进七 将４平５
+  5. 车八进一 车４退８
+  6. 车八平六 1-0
+============================
+ 欢迎访问《象棋百科全书网》 
+ 推荐用《象棋巫师》观赏棋谱 
+http://www.elephantbase.net/

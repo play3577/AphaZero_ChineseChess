@@ -1,0 +1,25 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red "象棋巫师测试团"]
+[RedTeam ""]
+[Black "ElephantEye"]
+[BlackTeam ""]
+[Result "*"]
+[ECCO ""]
+[FEN "r3kab2/4a4/4c4/p1p1C2rp/9/2P2N3/P3P3P/B5C2/9/1R1AKAB2 w - - 0 1"]
+{
+}
+  1. 车八进七 将５平４
+{不出将红车将白吃中炮，如退车保住，红马四进三也是丢子。}
+  2. 马四进六
+{妙！有马六进七将军，红中炮无虞。}
+  2.          车８进１
+  3. 炮三平六 将４平５
+  4. 马六进八 车１平４
+  5. 车八平九 车４进７
+  6. 车九进二 车４退７
+  7. 马八进七
+ *

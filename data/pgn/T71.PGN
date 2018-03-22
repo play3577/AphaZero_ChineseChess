@@ -1,0 +1,25 @@
+[Game "Chinese Chess"]
+[Event ""]
+[Round ""]
+[Date ""]
+[Site ""]
+[RedTeam ""]
+[Red "象棋巫师测试团队"]
+[BlackTeam ""]
+[Black "ElephantEye"]
+[Result "1-0"]
+[ECCO ""]
+[Opening ""]
+[Variation ""]
+[FEN "3a1k3/4a4/b3c3b/6N2/2r6/6R2/6c2/4C4/3pA4/4KA3 w - - 0 1"]
+  1. 马三进二 将６进１
+  2. 车三进四 将６退１
+  3. 车三退五
+{  红车借马抽将吃炮，正着！如误走车三平五则炮7退5垫将，红方反而无解着，输定。}
+  3.          将６进１
+  4. 车三进五 将６退１
+  5. 车三平五 1-0
+============================
+ 欢迎访问《象棋百科全书网》 
+ 推荐用《象棋巫师》观赏棋谱 
+http://www.elephantbase.net/
